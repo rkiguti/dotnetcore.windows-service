@@ -12,6 +12,7 @@
 	<PackageReference Include="Microsoft.AspNetCore.Hosting.WindowsServices" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.EventLog" Version="2.2.0" />
     <PackageReference Include="Topshelf" Version="4.2.1" />
+    <PackageReference Include="Topshelf.NLog" Version="4.2.1" />
   </ItemGroup>
 
 </Project>
